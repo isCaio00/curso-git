@@ -1,1 +1,3 @@
-print("Meu primeiro projeto utilizando Git!")
+nome = input("Digite seu nome: ")
+
+print(f"Olá, {nome}!")
